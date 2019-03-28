@@ -24,5 +24,7 @@ Planning to get more proficient with the technology, then this book is for you, 
 
 ### Software and Hardware List
 
+# Overview of ToC
+
 ## Support
 Please log your feedback here. We will be glad to assist and you can ask questions to get help from others. In addition, there is an active #WileyIndiaP channel on new upcoming Tech books.
