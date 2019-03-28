@@ -11,8 +11,6 @@ Automation is a key for success for any organization. The boom of DevOps and Clo
 
 In this book all of the real-time experiences have been shared in the book in a way so that anyone (Developer, Build & Release or a Sysadmin) can understand the Ansible concepts easily.
 
-If you feel this book is for you, get your [copy](https://www.wileyindia.com/automation-with-puppet-5-0.html) today!
-
 ## Highlights of the Book
 
 * Simple to understand for basic, intermediate and advanced reference.
@@ -22,6 +20,7 @@ If you feel this book is for you, get your [copy](https://www.wileyindia.com/aut
 *	Dedicated forum thinknyx.com website discusses any technical challenges with community.
 *	Dedicated blog thinknyx.com website keeps updated with Puppet and other DevOps-related framework and technologies.
 
+Planning to get more proficient with the technology, then this book is for you, get your [copy](https://www.wileyindia.com/automation-with-puppet-5-0.html) today!
 
 ### Software and Hardware List
 
