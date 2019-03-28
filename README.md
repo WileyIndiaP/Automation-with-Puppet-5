@@ -13,5 +13,15 @@ In this book all of the real-time experiences have been shared in the book in a 
 
 If you feel this book is for you, get your [copy](https://www.wileyindia.com/automation-with-puppet-5-0.html) today!
 
+## Highlights of the Book
+
+* Simple to understand for basic, intermediate and advanced reference.
+* The focus is only on Puppet concepts, not on any other DevOps-related tool.
+*	Provides real-time production running case studies and examples.
+*	Includes “Test Your Knowledge” in all the chapters to facilitate readers examine their grasp of the subject.
+*	Dedicated forum thinknyx.com website discusses any technical challenges with community.
+*	Dedicated blog thinknyx.com website keeps updated with Puppet and other DevOps-related framework and technologies.
+
+
 ### Software and Hardware List
 
