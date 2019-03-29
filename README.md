@@ -5,11 +5,15 @@ This is the code repository for [Automation with Puppet 5]( https://www.wileyind
 
 ## What is this book about?
 
-**Automation with Ansible** is based on a Technical Tool called Ansible for IT Automation. Ansible is a very easy to use IT Automation Configuration Management and Orchestration Software majorly used by DevOps and System Administrators. This tool is used to automate Application Deployments, Infrastructure Provisioning and whole Infrastructure environment for configuration and management with ease. Any application used in Information Technology can be configured, maintained, upgraded in large scale environments in minutes with almost no human efforts.
+**Automation with Puppet 5** is based on a Tall the major concepts of Puppet Automation in a very straightforward and easy-to-understand way. We start by building a strong foundation to get familiar with Automation and Configuration Management. For this we have presented a simple case study to prove why Automation is a must in IT.
 
-Automation is a key for success for any organization. The boom of DevOps and Cloud has opened many ways for Open Source tools and Ansible is one of them with Trademark of Redhat for Web based UI Solution in the form of Ansible Tower. 
+The book talks about how to setup Puppet Master on CentOS and Ubuntu (two differ¬ent Linux-based Operating Systems), Setup and configure Puppet Agents/Nodes, Puppet Certification Management, Puppet Architecture. Until this level, you will be in a position to install, configure, and run your own independent Puppet environment.
 
-In this book all of the real-time experiences have been shared in the book in a way so that anyone (Developer, Build & Release or a Sysadmin) can understand the Ansible concepts easily.
+You will also learn Puppet Automation concepts with real-time examples for Puppet Resources, Classes, Variables, Puppet Modules, Puppet Nested Classes with some of the advanced Puppet concepts with examples, like Puppet Roles and Profiles and Hiera in Puppet. 
+At the end of the book, we will also cover some of the best practices used in the industry for Extended Puppet concepts like Mcollective, Defined Resource Types, Puppet ERB Templates, Puppet Environments and Puppet Forge. 
+
+We will also cover an overview of Foreman − an open-source fronted GUI for Puppet and YAML language essentials.
+
 
 ## Highlights of the Book
 
